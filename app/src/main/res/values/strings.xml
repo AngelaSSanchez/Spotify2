@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Play My Music</string>
+
+    <string name="action_settings">Favorites</string>
+    <string name="action_logout">Log Out</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
